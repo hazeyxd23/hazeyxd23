@@ -1,6 +1,8 @@
 # About
 
-Computer Science student passionate about backend development, Linux, and game development. I enjoy building practical software, experimenting with open-source tools, and spending my free time playing guitar.
+## About
+
+CS Student • Backend Developer • Linux Enthusiast • Game Developer 
 
 ## Setup
 
