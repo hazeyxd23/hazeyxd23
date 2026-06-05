@@ -46,13 +46,4 @@ Always learning. Always building.
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
 
-## Currently Learning
-
-🎮 Godot & C#
-
-☁️ AWS
-
-🐧 Linux Internals
-
-📚 System Design
 
