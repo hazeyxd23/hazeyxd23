@@ -8,7 +8,7 @@ CS Student • Backend Developer • Linux Enthusiast • Game Developer
 ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge\&logo=wayland\&logoColor=black)
 ![Kitty](https://img.shields.io/badge/Kitty-000000?style=for-the-badge\&logo=gnometerminal\&logoColor=white)
 ![Zen Browser](https://img.shields.io/badge/Zen_Browser-3B82F6?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge\&logo=pycharm\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
