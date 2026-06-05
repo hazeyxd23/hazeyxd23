@@ -8,9 +8,9 @@ CS Student • Backend Developer • Linux Enthusiast • Guitarist
 ![CachyOS](https://img.shields.io/badge/CachyOS-7B68EE?style=for-the-badge)
 ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge)
 ![Kitty](https://img.shields.io/badge/Kitty-000000?style=for-the-badge)
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser)
+![Zen Browser](https://img.shields.io/badge/Zen_Browser-4A90E2?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea)
+![JetBrains](https://img.shields.io/badge/JetBrains_IDEs-000000?style=for-the-badge&logo=jetbrains)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge)
 ![MiniFuse 2](https://img.shields.io/badge/Arturia_MiniFuse_2-6F42C1?style=for-the-badge)
@@ -30,7 +30,7 @@ CS Student • Backend Developer • Linux Enthusiast • Guitarist
 ## Frameworks & Libraries
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Node.js](https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
