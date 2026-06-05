@@ -1,12 +1,7 @@
 ## About
 
-Computer Science student passionate about backend development, Linux, and building useful software.
+CS Student • Backend Developer • Linux Enthusiast • Guitarist
 
-I enjoy creating web applications, automation tools, and full-stack projects using Python and JavaScript. Recently I've also been exploring game development with Godot and C#.
-
-Outside of programming, you'll usually find me practicing guitar, learning new songs, experimenting with music production, or tinkering with my Linux setup.
-
-Always learning. Always building.
 
 ## Setup
 
