@@ -1,16 +1,31 @@
-## Hi there 👋
+# Bhavya
 
-<!--
-**hazeyxd23/hazeyxd23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student interested in backend development, Linux, and building useful software.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- JavaScript
+- C++
+- SQL
+- React
+- Node.js
+- Express
+- FastAPI
+- MySQL
+- Git
+
+## Projects
+
+- Product Price Tracker & Wishlist System
+- Book Recommendation System (KNN)
+- A* Pathfinding Visualizer
+- Huffman Compression Tool
+
+## Setup
+
+- CachyOS Linux + Hyprland
+- Kitty Terminal
+- Firefox
+- VS Code
+- Arturia MiniFuse 2
