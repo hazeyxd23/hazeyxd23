@@ -1,7 +1,5 @@
 # About
 
-## About
-
 CS Student • Backend Developer • Linux Enthusiast • Game Developer 
 
 ## Setup
