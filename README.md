@@ -1,11 +1,6 @@
 ## 👋 About Me
 
-CS student who builds backends and games and runs Linux.
-I mostly work on APIs, real-time systems and automation. In my free time I make small games in Godot and Unity.
-
-- 🔨 **Currently building:** a RAG-based document Q&A app
-- 🌱 **Learning:** system design, scaling backends
-- 🐧 **Daily driver:** CachyOS + Hyprland
+hi I builds backends and sometimes games
 
 ---
 
