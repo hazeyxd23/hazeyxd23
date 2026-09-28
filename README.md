@@ -1,6 +1,6 @@
 ## CS student
 
-I build backends, trying to get into aiml
+I build backends, trying to get into AIML.
 
 
 
